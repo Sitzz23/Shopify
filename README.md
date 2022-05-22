@@ -1,3 +1,3 @@
 # Shopify
-Shopping Website
-Its a shopping website I created to test my java skills.
+Shopping Application
+Its a shopping website I application to test my java skills.
